@@ -1,6 +1,5 @@
 #!/usr/bin/perl -w
 
-use lib "lib";
 use strict;
 use Data::HexDump;
 use FileHandle;
