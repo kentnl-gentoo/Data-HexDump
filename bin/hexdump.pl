@@ -5,7 +5,7 @@ use strict;
 use Data::HexDump;
 use FileHandle;
 
-my $prgname = "hexdump";
+my $prgname = "hexdump.pl";
 my $file = shift;
 my $fh;
 

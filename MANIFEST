@@ -2,7 +2,7 @@ MANIFEST
 MANIFEST.SKIP
 Makefile.PL
 README
-hexdump
+bin/hexdump.pl
 lib/Data/HexDump.pm
 t/compare.t
 t/data.t
